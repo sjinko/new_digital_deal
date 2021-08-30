@@ -1,0 +1,11 @@
+# The New Digital Deal: Digital Trust and Privacy in the Age of Urban Citizenships
+
+The lack of a citizen-driven processed to define a global framework for digital trust and data privacy restricts our ability—as urban planners and designers—to engage responsibly with digital tools and technology in planning a more socially sustainable urban territory. In the aftermath of the COVID-19 pandemic, a growing majority of policy and governance scholars agree on the need to readdress the mainstream ideal of a digital citizenship. Across geographical contexts, sanitary measures have leveraged telecommunication technology in order to prevent the spread of the SARS-CoV-2. In most cases, this technology allowed to reconcile apparently opposing governance priorities: the health and safety of citizens, on the one hand, and the economic productivity, on the other hand. Yet, the rapid and sometime unplanned unfolding of digital solutions in mitigating the effects of sanitary measures also disrupted several aspects of the urban social contract. One of the most pregnant consequences of this change concerns citizens’ relationship to data privacy and digital trust. While new forms of interactive democratic assemblies offer potential solutions to generate ideas and awareness on issues pertaining to citizenship and digitization, the few examples so far have rather focused on other topics. This article delineates the development of a *New Digital Deal* that would result from such citizen assemblies on digital citizenship and how it would contribute to making urban societies more resilient to the rapid transformation of their digital ecosystem. By looking at recent examples of national citizen assemblies in Europe, it highlights the means and the requirements for such a process to take place in across national and transnational contexts. A *New Digital Deal* would therefore not only have tremendous consequences on the right and protection of citizens across the globe, but also lay the foundation for more just and fair development of urban territories. 
+
+
+
+Author: Shin Alexandre Koseki
+
+Affiliation: University of Montreal
+
+Contact: shin-alexander.koseki@umontreal.ca

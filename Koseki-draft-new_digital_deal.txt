@@ -1,0 +1,310 @@
+# New Digital Deal
+
+
+## Why We Need A New Digital Deal
+
+--> Because covid
+--> Because new digital ecology
+--> Because new forms of hegemony
+--> Because new forms of digital agency
+
+--> Check rational in position paper on trust data privacy
+
+Many changes in the global society justify the need for new digital deal. In the following section, I describe three ways to look at these changes from the perpectives of space, digitization and citizenship. Naturally, considering a new digital deal from other perpectives might provide valuable additional insight on global social changes.
+
+### --> Because new forms of digital agencies scuffles dynamics of hegemony.
+
+#### New forms of agency
+The COVID-19 crisis has reinforced new forms of agency brought upon by digital technologies. Today’s social agency lies within the ideas that circulate among humans by replication. Since the 1990s, the increasing replication has replaced multilayered data as a paradigm of how we create new forms of knowledge about society. Since the 1970s, states and corporations have increasingly digitized documents and the information they contained. This process has also created large set of information about the digitization process itself, as well as subsequent manipulation of the data. These meta informations, which are commonly referred to as “metadata” form today more than XX bytes. The data itself has reached the size of XX bytes. Such data and metadata form what we call “digital ecosystems”. With the rise of the Internet and the growth of the World Wide Web, the number and nature of digital ecosystems has grew exponentially over the last twenty years. Finally, a new form of digital ecosystem is on the rise: the so-called “smart city”, which exists beyond the first fully immaterial digital ecosystems, because it is produced directly from material events: transportation, commercial transactions, lodging, etc. Contrary to previous forms of data collected into digital ecosystems, the smart-city data corresponds to an event, that is a modification of our environment at a certain time and in a certain location. This “record” of events provides the largest form of knowledge about society to date. Dominique Boullier, who is a French digital sociologist argues that the rise of digital ecosystems into what we know as “Big Data” has transformed our relationship to society because of the type of agency that is induced by the knowledge it produces. For Boullier, Big Data has focused our understanding of the world through the actions and behaviors of individuals, placing social agency in the hands of each and everyone of us as actors of the social world. Through Big Data, we recognize that individuals are actors that play an active role in shaping society’s becoming. 
+
+In order to come to this proposition, Boullier looks at how society has built knowledge about itself. Following a long period, which we can qualify as “pre-scientific”, society had relied mostly on theological understanding of the social world. With the Enlightments, a philosophical approach had risen. Based on morality and common sense, this approached had dominated the discussions of intellectual elites until the end the 19th century when first survey were conducted as way to explain moral corruption and the spread of disease. Because these forms of knowledge about the social world are less dominant or marginalized in governance does not mean that they have disappear altogether. Many decision remain largely embedded in theological, philosophical or so-called common sense understanding of the social world. Politics, economics and law, in particular, which all pre-existed the establishment of social science and were largely shaped by these approach, retain much of their ethos even today. 
+
+These first forms of data collection were in fact attempt to establish social governance and resulted in the development of social policies, and the rise of social sciences, including epidemiology and urban planning. The census, remains today one of the main ways used by government to produce knowledge about the social world (the inhabitants). Census thus place agency in the hands of governments and other forms of public organization such as institutions. Census, which were first conducted in person, and therefore required an important investment in terms of money and energy have gradually been replaced by modes of telecommunication such as postal services, telephones and more recently online forms shared through the internet. Many census retain characteristics that are relicate of the 19th century understanding of the social world. For example, the use of the house as the primary social unit — which can then be subdivided into inhabitants — results directly from this. Census thus afford a form of knowledge that is primarily “sociodomographic” or “objective” and contribute to construct a sense of social objectivism by establishing hard categories such as gender, race, age, occupation, residence, contact information, etc. All of these have been gradually put into question, and we see them as partially obsolete today, even if they remain strongly embedded in digital-era data collection protocols. 
+
+What follows, Boullier highlights, is the rise of another form of data collection technique invented, or at least popularized by the social science: the survey. Starting with the rise of sociology, the survey quickly became a central tool for better understanding the state of society, by focusing on specific populations (defined in part through census) and by topic...
+
+
+
+### Because of out new understanding of space
+#### Why we need a new understanding of space
+(Copresence) We live in an urban world. Cities and their surroundings constitute the habitat of more than half the human population. Natural reserves are preserved. 
+
+(Mobility) Any point on earth can be reached within two hours. The entire planet in continuously monitored from space. 
+
+Any economic transaction is accounted for and must be declared. The temperature of any points on Earth is known with accuse precision. We can predict the weather of any point on earth with accurate precision. 
+
+(Telecommunication) Telecommunication technology have revolutionized the way we interact on a daily basis. allows us to interact with almost any human, day and night, millions kilometers appart. 
+
+(Conclusion) Every aspect of our relationship to space, whether material or immaterial, has changed dramatically over the last decades. Extended urbanization and extended digitization...The axiomatic paradigm of space has come to an end, cannot be used to address the current transition. Space is no more a matter of distance. Topological (areas), topographical (networks) and topic (place) space no more! New “chorologies”.
+
+--> need to engage responsibly with digital tools and technology in planning a more socially sustainable urban territory
+In the aftermath of the Brundtland commission... 
+
+
+--> Global changes + Covid-19
+
+
+--> Effect of human action on the environment / human vulnerability / new types of agency
+
+
+#### How can we foster new types of spaces
+--> We need to look at aspirations
+--> We need to look as capabilities
+--> We need to look at affordances
+--> Conclusion: We need to focus on the agency
+
+#### What are the new types of spaces
+--> What are the old types of spaces
+--> Distance, area, landscapes (contiguous / functional)
+--> Traditional space means networks, places and areas
+--> Landscapes
+--> Digital spaces
+--> Community and identity
+--> Earth
+--> Underground / soil
+--> Political 
+--> Ethical
+--> Aesthetic
+--> Trust
+--> Privacy
+--> Risk
+--> Ontological space
+--> Topodoxical space
+--> Spaces that share aspirations, capabilities and affordances, or that give common answer to such.
+--> We don’t represent cities as interconnected, but locus of similar opportunities. Any space is connected. The idea of “connected spaces” lies on the idea that they are “effectively” (rapidly) connected, compared to other space. Remains in the paradigm of distance.
+--> Ex. “Queer space", "Black space", "democratic space", "civic space", "digital space", "tech space", "art space", "trust space", etc.
+
+### Because of Our New Approach to Digitization
+--> Because new form of agency in relation to knowledge about the social world
+--> New forms of hegemony
+
+#### Why we need a new approach to digitization
+--> Need for digital trust and data privacy
+--> rapid and sometime unplanned unfolding of digital solutions in mitigating the effects of sanitary measures also disrupted several aspects of the urban social contract.
+--> Digital disruption
+--> Current digital ecosystems inherited from corporate ontologies and government 
+--> To provide answers to digital problems created by old models of digitization
+--> Take into account the diverse capacities
+--> To acknowledge bias
+--> For non-digital practices
+--> New format (images)
+--> Old models of governance applied to digitization
+--> Replication of the non-digital world
+--> Increase presence of digital technology in public space
+--> Increase tracking
+--> Increase importance of digital technology in our daily lives
+--> Increase importance of digital technology for economic competitiveness
+--> Increase reliance on digital technology from government and administrations
+--> increase integration of digital technology in governance and public policies
+--> Positive effects of digital technologies
+--> Increase prevalaence of AI systems
+--> New paradigm shift with AI
+--> Perverse effect of digitization on mental and physical health
+--> We have reached a point where most humans are able to work with digital devices (how many smartphones / computers?)
+--> Few last generation of non-digital people
+--> 
+
+#### How can we build a new approach to digitization
+--> Digital diplomacy
+--> Digital literacy
+--> Digital citizenships
+--> Recognize the spatial dimension of digital space
+--> Digitization as a dimension of society
+--> Dematerialization of institution
+--> Empower people
+--> Develop capacities
+--> Foster aspirations 
+--> Generate affordances
+
+#### What are the new forms of digitization
+--> Digitization is traditionally defines as...
+--> From à spatial perspective, digitization entails a decreasing complexity of of material space and and increasing complexity of immaterial spaces
+--> From a practical perspective, digitization means..
+--> In terms of aspirations, digitization would mean...
+--> In terms of affordances, digitization would mean...
+--> In terms of capacities, digitization would mean... (a lesser reliance on certain movements)
+
+### Because of Our New Approach to Citizenship-
+>  need to readdress the mainstream ideal of a digital citizenship
+#### Why we need a new approach to citizenship
+--> New role of digitization 
+--> New capacities (digital)
+--> New digital agency
+--> New logic of agency
+--> New logics of space
+--> Confirmation of the world as a scale of reference
+--> Sustainability
+--> New Political aspirations
+--> Political polarization
+--> Distrust in political elites
+--> Distrust in the media
+--> Democracy in crisis
+
+#### How can we build new citizenships
+--> New "découpages"
+--> Focus on agency
+--> Recognize collective agency
+--> Focus on aspirations, capacities and affordances
+--> Empower individuals
+--> Leverage digital tools
+--> Increase democracy
+--> Engage in a new digital deal
+
+#### What are new citizenships
+--> Traditional citizenships are characterize by
+--> Common affordances
+--> Common aspirations
+--> Common capacities
+--> Sum of individual agencies
+--> New citizenships are characterized by 
+--> Generate a collective agency
+--> Diversity of aspirations
+--> Diversity of capacities
+--> Diversity of affordances
+
+
+## How Can We Make it Happend
+### Citizen Assemblies
+#### Why we need citizen assemblies
+--> Collective intelligence
+--> Impartial 
+--> Empowering
+--> Diversity of aspirations create better results
+--> Diversity of capacities create better results
+--> Diversity of affordances create better results
+#### How do citizens assemblies work
+--> Random selection of participants
+--> Great diversity
+--> Legitimacy
+--> Specific question asked
+--> Let citizens take control of the process
+--> Give enough time but not too much
+--> Make authorities accountable for the implementation of the measures
+--> Constitute an independent governance committee
+--> Make clear distinction between governance committee, citizens and stake-holders
+
+#### What are citizens assemblies
+--> Working groups
+--> Decisional meetings
+--> Auditions
+
+### Citizen agreements
+#### Why we need citizen agreements
+--> To increase social cohesion
+--> To increase urban quality
+--> To increase accountability from governments
+--> To empower citizens
+--> Less means than citizen assemblies
+--> Can be achieve anywhere by anyone
+--> Can address any topic
+--> 
+
+#### How do citizens agreements work
+--> Iterative process
+--> Departs from an agreement between citizens and authorities
+--> Focus on aspirations, capabilities and affordances
+--> Cast a larger net of citizens
+--> Must be inclusive
+--> Departs from self-identifying participants
+--> Must allow to jump in
+--> No formal entity (no association)
+--> Resort to scientific methods (citizen science)
+--> Long process
+--> Must be documented
+--> Must seek to get the maximum diversity of viewpoints
+
+#### What are citizens agreements
+--> Iterative process
+--> Departs from a specific issue
+--> Must not infringe on rights and liberties
+--> Not constraining
+--> Series of meetings
+--> Application of scientific methods
+--> Defined by the citizens through the process
+
+### Citizen Science
+
+Irwin, Aisling (2018) “No PhDs needed: how citizen science is transforming research” in *Nature* 562, 480-482. https://doi.org/10.1038/d41586-018-07106-58
+
+de Sheribinin, Alex (2021)
+
+Adler and Adler (2020). In *Scientific American*
+
+#### Why we need citizen Science
+--> To empower citizens
+--> To advance science
+--> To benefit from enlarged workforce
+--> inform local policies
+--> enhance formal and informal education initiatives
+--> conserve natural resources,
+--> support environmental sustainability  (Adler)
+--> Build up a critical understanding of science (Adler)
+--> Facilitate the implementation of policies (Adler)
+--> Science citizens should be able to apply scientific reasoning and critical thinking to inform their personal decisions (Adler)
+--> science is too important to be left to scientists alone (Adler)
+--> Increase democratic governance (Adler)
+--> Increase quality of decision making process (Adler)
+--> improved science literacy (Adler)
+--> major source of high-quality data and analysis in areas relevant to policymakers as well as scientists. (Irwin 2018)
+--> help to monitor progress towards the UN’s Sustainable Development Goals (Irwin 2018)
+--> "projects are breaking boundaries through the sheer volume of participants and data." (Irwin 2018)
+--> Unexpected insight and knowledge
+--> "democratizing science and promoting the goal of universal and equitable access to scientific data and information." (De Sheribinin et al. 2021)
+--> "benefits of civic engagement and the contributions of citizen science (CS) to societal goals such as environmental justice are widely recognized, perhaps less understood is the critical importance of data as an output of citizen science projects." (de Sheribinin et al. 2021)
+--> "CS can be a vehicle for addressing interlinked environmental and development issues that are of the highest concern to communities (a major focus of the second TG) (International Council for Science (ISC), 2017). These include environmental justice and equitable access to basic services such as clean water, food, education and health services." (Sheribinin et al. 2021)
+--> Incerase chances to make data FAIR; Wilkinson et al., 2016
+--> 
+
+
+#### How do citizens Science work
+--> 
+
+#### What is citizen Science
+--> Citizen science is obviously not new. First, because any scientist is also a citizens. This réalisation, which may seem banal, it of outmost importance to understand how science has came to be. While we have professionalized science over the last few centuries, notably through the Humboldian disciplinary scheme, most notable male contributors to scientific advancement were citizens with time on their hands and access to records of knowledge such as members of the clergy or noblemen. Second, because even in the modern time, non-professional scientists have went on contributing to the advancement of science, may it be out of luck, or doing experiments in their basements. Again, in many cases, what allowed for these laypersons to make significant contributions to scientific knowledge was time on their hand and access to records of knowledge. Never in the history of humanity have people had so much time on their hand and access to so much records of knowledge.
+
+--> To agree on a specific definition of science is not required to conduct citizen science, the same way it is not required to conduct science. It is in fact one of the quest of science to constantly redefine what it is and what it entails. Here, I give a generic and overly simplistic definition of science, one that can encompass many of the current definitions that exist. A first definition would be the act of proposing a narrative (a model) that explains previous forms of knowledge. This knowledge can be empirical or theoretical, but also phenomenological, etc.
+From the perpective of agency, science is the practice of achieving scientific aspirations through scientific capacities using what is at our disposal.
+
+--> ”The phrase ‘citizen science’ itself was coined in the mid-1990s. Alan Irwin, a sociologist now based at the Copenhagen Business School, defined it both as “science which assists the needs and concerns of citizens” and as “a form of science developed and enacted by the citizens themselves”. 
+(Irwin 2018)
+--> " from ‘crowdsourced’ citizen science, in which lay people contribute data or volunteer computing power, to ‘co-created’ and ‘collegial’ research, in which members of the public actively engage in most aspects of a project, or even conduct research on their own.” (Irwin 2018)
+
+## What is the New Digital Deal
+### It is a new form of digital
+#### Why
+--> because it includes citizen data
+--> Separates from corporate and state approach to digitization
+--> rebuild trust
+--> Does not apply material world concept to the digital world
+--> To increase digital fairness and literacy
+--> 
+#### How
+--> 
+#### What
+--> 
+
+### It’s a new approach to space
+#### Why
+--> 
+#### How
+--> 
+#### What
+--> 
+
+### It’s a new approach to citizenship 
+#### Why
+--> 
+#### How
+--> 
+#### What 
+--> 
+
+### In other worlds, it is a new form of agency
+#### Why
+--> 
+#### How
+--> 
+#### What
+--> 
+
+## Conclusion
